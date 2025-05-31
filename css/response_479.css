@@ -1,0 +1,49 @@
+@media (max-width: 479px) {
+   
+    .cont {
+        padding: 0 15px;
+    }
+    .first-section_top-title {
+        font-size: 35px;
+    }
+    .first-section_bottom {
+        padding: 30px 0 81px;
+    }
+    .plan,
+    .content,
+    .system {
+        padding-top: 40px;
+    }
+    .system_item-title {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+    .system_item-text {
+        font-size: 18px;
+        padding-bottom: 18px;
+    }
+    .blockquote_title {
+        font-size: 22px;
+    }
+    .blockquote_text {
+        font-size: 18px;
+    }
+    .content_item-title {
+        font-size: 22px;
+    }
+    .content_item-text {
+        font-size: 18px;
+    }
+    .content_item-label {
+        font-size: 18px;
+    }
+    .content .plan-head .plan_title:before,
+    .content .plan-head .plan_title:after {
+        display: none;
+    }
+
+
+
+ 
+
+}
