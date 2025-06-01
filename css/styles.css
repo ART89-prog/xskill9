@@ -399,6 +399,12 @@ footer {
 }
 
 
+.page2,
+.page3,
+.page4,
+.page5 {
+    background: linear-gradient(278.02deg, #E0F6FA 9.37%, #F2FDFF 94.46%);
+}
 .plan {
     padding-top: 71px;
 }
